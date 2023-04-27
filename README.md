@@ -11,6 +11,10 @@ TeamTalk is a chatting app developed in Flutter with Firebase integration. With 
 - Ability to search for other users and start a conversation with them.
 - Notification support for incoming messages.
 
+## UI Demo
+
+- See [here](https://www.linkedin.com/feed/update/urn:li:activity:7053434483621941248/)
+
 ## Prerequisites
 
 Before you can use the TeamTalk app, you need to have the following:
