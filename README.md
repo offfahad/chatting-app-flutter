@@ -13,7 +13,7 @@ TeamTalk is a chatting app developed in Flutter with Firebase integration. With 
 
 ## UI Demo
 
-- See [here](https://www.linkedin.com/feed/update/urn:li:activity:7053434483621941248/)
+- To See A Video Demo Click -> [Here](https://www.linkedin.com/feed/update/urn:li:activity:7053434483621941248/)
 
 ## Prerequisites
 
